@@ -1,7 +1,7 @@
 server:
   port: 9091
 application:
-  url: http://192.168.56.1:9094/api/v1/customers
+  url: http://192.168.56.1:9092/api/v1/customers
 
 # To set logs level as per your need.
 logging:
